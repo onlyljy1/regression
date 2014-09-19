@@ -1,1 +1,2 @@
-regression model
+# regression model
+predictive regression and shrinkage
